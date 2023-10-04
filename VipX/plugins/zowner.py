@@ -51,7 +51,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐒𝐇𝐈𝐕 🌹", url=f"https://t.me/II_RAJPUT_SHIV_SINGH_II")
+                        "🌹 FALGUN 🌹", url=f"https://t.me/Falgun_7")
                 ]
             ]
         ),
@@ -105,7 +105,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐒𝐇𝐈𝐕 🌹", url=f"https://t.me/II_RAJPUT_SHIV_SINGH_II")
+                        "🌹 FALGUN 🌹", url=f"https://t.me/Falgun_7")
                 ]
             ]
         ),
@@ -128,7 +128,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/MISHSINGH19/SHIV-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/FalgunKing")
                 ]
             ]
         ),
@@ -146,7 +146,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/MISHSINGH19/SHIV-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/FalgunKing")
                 ]
             ]
         ),
@@ -164,7 +164,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/MISHSINGH19/SHIV-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/FalgunKing")
                 ]
             ]
         ),
